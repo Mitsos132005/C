@@ -1,0 +1,4 @@
+C:/Users/dimit/Desktop/Dimitrios/Programming/C/Labs/Lab 7/cmake-build-debug-mingw/CMakeFiles/Exercise_12.2.dir
+C:/Users/dimit/Desktop/Dimitrios/Programming/C/Labs/Lab 7/cmake-build-debug-mingw/CMakeFiles/Exercise_13.4.dir
+C:/Users/dimit/Desktop/Dimitrios/Programming/C/Labs/Lab 7/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/dimit/Desktop/Dimitrios/Programming/C/Labs/Lab 7/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
